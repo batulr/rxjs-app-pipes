@@ -1,0 +1,82 @@
+[
+  {
+    "id": 1,
+    "name": "Michael Scott",
+    "username": "Mike",
+    "designation": "Manager",
+    "email": "mikes@theoffice.com",
+    "phone": "1-770-736-8031"
+  },
+  {
+    "id": 2,
+    "name": "Dwigth Schrute",
+    "username": "Dwight",
+    "designation": "Sales",
+    "email": "dwight@theoffice.com",
+    "phone": "010-692-6593"
+  },
+  {
+    "id": 3,
+    "name": "James Halpert",
+    "username": "Jim",
+    "designation": "Sales",
+    "email": "jim@theoffice.com",
+    "phone": "1-463-123-4447"
+  },
+  {
+    "id": 4,
+    "name": "Pamela Halpert",
+    "username": "Pam",
+    "designation": "Receptionist",
+    "email": "pam@theoffice.com",
+    "phone": "493-170-9623"
+  },
+  {
+    "id": 5,
+    "name": "Angela",
+    "username": "Angela",
+    "designation": "Accounts",
+    "email": "ang@theoffice.com",
+    "phone": "(254)954-1289"
+  },
+  {
+    "id": 6,
+    "name": "Andy Bernard",
+    "username": "Andy",
+    "designation": "Sales",
+    "email": "andy@theoffice.com",
+    "phone": "1-477-935-8478"
+  },
+  {
+    "id": 7,
+    "name": "Oscar",
+    "username": "Oscar",
+    "designation": "Accounts",
+    "email": "oscar@theoffice.com",
+    "phone": "210.067.6132"
+  },
+  {
+    "id": 8,
+    "name": "Kelly Kapoor",
+    "username": "Kelly",
+    "designation": "HR",
+    "email": "kelly@theoffice.com",
+    "phone": "586.493.6943"
+  },
+  {
+    "id": 9,
+    "name": "Ryan Howard",
+    "username": "Ryan",
+    "designation": "Intern",
+    "email": "ryan@theoffice.com",
+    "phone": "(775)976-6794"
+  },
+  {
+    "id": 10,
+    "name": "Jane Austen",
+    "username": "Jane",
+    "designation": "HO Manager",
+    "email": "jane@theoffice.com",
+    "phone": "024-648-3804"
+  }
+]

@@ -1,0 +1,41 @@
+.card {
+  width: 30%;
+  margin: 0 auto;
+  margin-top: 8px;
+  background-color: #e7d3b6;
+}
+
+.cardtitle {
+  text-align: center;
+  display: block;
+  font-size: 20px;
+  border-bottom: 2px solid #000;
+  margin-bottom: 10px;
+  padding-bottom: 5px;
+}
+
+.lcards {
+  margin: 0 auto;
+}
+
+.ctitle {
+  font-size: 25px;
+  font-family: "Times New Roman", Times, serif;
+  margin-bottom: 15px;
+}
+
+.headings {
+  font-weight: 700;
+}
+
+.filinl {
+  font-size: 18px;
+}
+
+.filin {
+  border: 1px solid wheat;
+  border-radius: 5px;
+  size: 40;
+  margin: 0 auto;
+  height: 27px;
+}
